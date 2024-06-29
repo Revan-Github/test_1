@@ -21,7 +21,7 @@ spec:
             - containerPort: 3000
 
 ---
-apiverison: v1
+apiVerison: v1
 kind: Service
 metadata:
   name: frontend-service
